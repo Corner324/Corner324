@@ -1,1 +1,20 @@
-![Metrics](https://metrics.lecoq.io/Corner324?template=classic&isocalendar=1&languages=1&leetcode=1&achievements=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=6&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&leetcode=false&leetcode.user=Corner324&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Europe%2FMoscow&config.twemoji=true&config.octicon=true)
+# 👨‍💻 Welcome to My GitHub! 👋
+
+Hey, I'm Corner324, a Backend developer 🚀 passionate about coding and creating cool stuff! Explore my projects below and let's connect!
+
+## About Me
+
+I'm all about Backend magic ✨, specializing in web development. Let's build awesome things together!
+
+## Skills Snapshot 🛠️
+
+- **Languages**:  JavaScript, Python.
+- **Databases**: PostgreSQL, MySQL, MongoDB, RedisDB.
+- **Frameworks**: Express, NestJS.
+- **Tools**: Git, Docker, Postman.
+
+## Let's Connect!
+
+Ping me at corner3245@gmail.com or find me in [telegram](https://t.me/Corner324). Excited to collaborate and code together! 🤝
+
+Thanks for dropping by! 🎉
