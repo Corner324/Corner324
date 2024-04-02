@@ -10,7 +10,7 @@ I'm all about Backend magic ✨, specializing in web development. Let's build aw
 
 - **Languages**:  JavaScript, Python.
 - **Databases**: PostgreSQL, MySQL, MongoDB, RedisDB.
-- **Frameworks**: Express, NestJS.
+- **Frameworks**: Express, Django.
 - **Tools**: Git, Docker, Postman.
 
 ## Let's Connect!
