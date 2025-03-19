@@ -8,9 +8,9 @@ I'm all about Backend magic ✨, specializing in web development. Let's build aw
 
 ## Skills Snapshot 🛠️
 
-- **Languages**:  JavaScript, Python.
+- **Languages**: Python, JavaScript.
 - **Databases**: PostgreSQL, MySQL, MongoDB, RedisDB.
-- **Frameworks**: Express, Django.
+- **Frameworks**: Django Rest Framework, Express.
 - **Tools**: Git, Docker, Postman.
 
 ## Let's Connect!
