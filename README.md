@@ -1,14 +1,13 @@
 # 👨‍💻 Hey, I’m Alexander Kulikov (Corner324) 👋
 
-Welcome to my GitHub! I’m a **Backend Developer** from Moscow with ~2 years of experience, passionate about crafting efficient, scalable solutions 🚀. Currently a Team Lead at Guild of Developers, I’ve built REST APIs, optimized databases, and led a small team to success. Check out my projects and let’s build something awesome together!
+Welcome to my GitHub! I’m a **Backend Developer** from Moscow with ~4 years of experience, passionate about crafting efficient, scalable solutions 🚀.
 
 ---
 
 ## 🌟 About Me
 
-- **Who I Am**: A 21-year-old tech enthusiast studying Software Engineering at MIREA (RTU), with a knack for Backend development and DevOps.  
-- **What I Do**: I specialize in Python (Django/DRF), REST API design, and containerization (Docker). I’ve optimized systems to cut response times by 35% and achieved 96% test coverage.  
-- **Fun Fact**: I love coding chatbots and hitting up tech meetups in Moscow!  
+- **Who I Am**: A 22-year-old tech enthusiast studying Software Engineering at MIREA (RTU), with a knack for Backend development and DevOps.  
+- **What I Do**: I specialize in Python (Django/DRF), REST API design, and containerization (Docker).
 
 ---
 
@@ -16,12 +15,12 @@ Welcome to my GitHub! I’m a **Backend Developer** from Moscow with ~2 years of
 
 | **Category**         | **Tech Stack**                              |
 |-----------------------|---------------------------------------------|
-| **Languages**         | Python, JavaScript                         |
-| **Frameworks**        | Django, Django REST Framework, Express.js  |
-| **Databases**         | PostgreSQL, MongoDB, MySQL, Redis          |
-| **DevOps/Tools**      | Docker, GitLab CI/CD, Celery, Nginx, Sentry|
-| **Testing**           | unittest, pytest                           |
-| **Other**             | REST API, OAuth, Swagger, Postman, Jira    |
+| **Languages**         | **Python**, JavaScript                         |
+| **Frameworks**        | Django, **Django REST Framework**, Express.js  |
+| **Databases**         | **PostgreSQL**, MongoDB, MySQL, Redis          |
+| **DevOps/Tools**      | **Docker**, GitLab CI/CD, Celery, Nginx, Sentry|
+| **Testing**           | unittest, **pytest**                           |
+| **Other**             | **REST API**, OAuth, Swagger, Postman, Jira    |
 
 ---
 
