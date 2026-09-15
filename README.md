@@ -1,10 +1,10 @@
 # Hey, I'm Alexander Kulikov 👋
 
-**Backend & Data Engineer** focused on building reliable data pipelines, APIs, cloud infrastructure, and automation.
+**Backend & Data Engineer** focused on building reliable data pipelines, APIs, cloud infrastructure, automation, and developer tooling.
 
 I work primarily with **Python**, **Google Cloud**, **BigQuery**, **ClickHouse**, and production ETL systems — from collecting and processing external data to exposing it through APIs and business-facing tools.
 
-Currently exploring **AI-assisted software development and multi-agent engineering workflows**.
+Currently exploring **AI-assisted software development, multi-agent engineering workflows, and developer tooling**.
 
 ---
 
@@ -16,6 +16,7 @@ Currently exploring **AI-assisted software development and multi-agent engineeri
 * 🔌 Designing APIs and integrations with external platforms
 * ⚙️ Automating data ingestion, task execution and operational workflows
 * 💰 Optimizing database workloads and cloud infrastructure costs
+* 🛠️ Building developer tools for testing and debugging API integrations
 * 🤖 Experimenting with **AI agents** for software engineering, orchestration and code review
 * 🎓 Software Engineering @ **RTU MIREA**
 * 📍 Moscow, Russia
@@ -95,11 +96,15 @@ I’m especially interested in systems where agents can independently **plan, im
 
 ## Selected Projects
 
-### [Telegram Bot for E-Commerce](https://github.com/Corner324/TA_TelegramBot)
+### [PageTrace](https://github.com/Corner324/PageTrace)
 
-Telegram bot built with **Aiogram 3.x** and a **Django REST API**, including payment integration and PostgreSQL-backed application logic.
+Offline CLI tool for **analyzing API pagination traces** and detecting defects such as broken continuation chains, cursor loops, repeated states, duplicate items, and incomplete captures.
 
-`Python` `Aiogram` `Django REST Framework` `PostgreSQL` `Docker`
+Works with recorded **JSONL and HAR traces**, requires no network access, and follows a strict principle: **never claim more than the available evidence proves**.
+
+Built with a strong focus on correctness, deterministic diagnostics, property-based testing, and specification-driven development.
+
+`Python` `CLI` `API Testing` `Hypothesis` `pytest` `Property-Based Testing`
 
 ---
 
@@ -108,14 +113,6 @@ Telegram bot built with **Aiogram 3.x** and a **Django REST API**, including pay
 Full-stack IT service management system with a **Django backend** and **Vue.js frontend**, including role-based access and API testing.
 
 `Django` `Vue.js` `PostgreSQL` `pytest`
-
----
-
-### [Auth Server](https://github.com/Corner324/pet-auth)
-
-Authentication API built with **Node.js**, **Express.js** and **MongoDB**, with Swagger/OpenAPI documentation.
-
-`Node.js` `Express.js` `MongoDB` `Swagger`
 
 ---
 
@@ -138,8 +135,8 @@ Discord chatbot and one of my earlier backend projects.
 **Email:** [kulikov.a.3245@gmail.com](mailto:kulikov.a.3245@gmail.com)
 **Telegram:** [@Corner324](https://t.me/Corner324)
 
-Open to interesting **Backend / Data Engineering** projects and engineering discussions.
+Open to interesting **Backend / Data Engineering** projects, developer tooling, and engineering discussions.
 
 ---
 
-<sub>Python • Backend • Data Engineering • Google Cloud • ClickHouse • BigQuery • AI Agents</sub>
+<sub>Python • Backend • Data Engineering • Google Cloud • ClickHouse • BigQuery • AI Agents • Developer Tooling</sub>
