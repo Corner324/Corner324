@@ -1,4 +1,4 @@
-# Hey, I'm Alexander Kulikov 👋
+# Hey, I'm Aleksander Kulikov 👋
 
 **Backend & Data Engineer** focused on building reliable data pipelines, APIs, cloud infrastructure, automation, and developer tooling.
 
